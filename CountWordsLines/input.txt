@@ -1,0 +1,5 @@
+this is a sample input file
+containing text that tells that
+this is
+a sample
+input file
